@@ -1,5 +1,5 @@
 # santa-toy-factory
-A real-time Christmas toy production monitoring system built entirely on AWS Serverless for the AWS GetIT Challenge
+A real-time Christmas toy production monitoring system built entirely on AWS Serverless for the AWS GetIT Challenge 
 
 🎯 What is This Project?
 Santa's Toy Factory Dashboard is a full-stack web application that monitors global toy production operations in real-time for Santa's workshop. It tracks inventory levels, production line status, and alerts management across different regions, specifically focusing on African operations.
