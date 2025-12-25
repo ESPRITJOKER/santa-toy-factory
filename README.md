@@ -204,6 +204,3 @@ Merry Christmas to All, and to All a Good Night! 🎅✨"
 Build your own AWS project!
 
 Remember: Every expert was once a beginner. Start your cloud journey today
-Commit Hash: [Latest Commit]
-
-"Fr
